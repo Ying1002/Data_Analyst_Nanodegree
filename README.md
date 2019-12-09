@@ -6,7 +6,8 @@
 
 1) "ScheduledDay" tells us on what day the patient set up their appointment.
 2) "Neighborhood" indicates the location of the hospital.
-3) "Scholarship" indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. For more information, please see: https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia 4) "SMS_received" tells us if a patient gets a message reminder about the schedule appointments or not
+3) "Scholarship" indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. For more information, please see: https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia 
+4) "SMS_received" tells us if a patient gets a message reminder about the schedule appointments or not
 
  **The main purpose of my analysis is to identify among these associated variables, what factors are important for 
 us to know in order to predict whether a patient will show up for the scheduled appointment.**
