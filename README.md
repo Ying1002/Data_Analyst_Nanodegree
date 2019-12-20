@@ -17,12 +17,17 @@ us to know in order to predict whether a patient will show up for the scheduled 
 
 This project will assure I have mastered the subjects covered in the statistics lessons. 
 
-## Table of Contents
+### Table of Contents
 - [Introduction](#intro)
 - [Part I - Probability](#probability)
 - [Part II - A/B Test](#ab_test)
 - [Part III - Regression](#regression)
 
-### Introduction
 
 A/B tests are very commonly performed by data analysts and data scientists. For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+##  Project 4: Wrangle, Analyze and Visualize Tweet Archive of Twitter User WeRateDogs
+
+This project has two parts. Firstly, I will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. 
+
+After gather and clean WeRateDogs Twitter data, I have then obtained a well structured DataFrame containing basic tweet data for 1870 records of their original tweets with dog pictures. Four interesting insights have been produced by analyzing above information.
