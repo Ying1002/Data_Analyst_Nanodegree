@@ -32,7 +32,7 @@ This project has two parts. Firstly, I will gather data from a variety of source
 After gather and clean WeRateDogs Twitter data, I have then obtained a well structured DataFrame containing basic tweet data for 1870 records of their original tweets with dog pictures. Four interesting insights have been produced by analyzing above information.
 
 
-## Project 5: Pisa Data Exploration and Communication
+## Project 5: Pisa Data Exploration by Visualization and Communication with Slideshow
 
 ### Dataset
 
